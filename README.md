@@ -7,7 +7,7 @@
           
 <img height="75em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
           
-para a crianção do banco de dados usando o shell do  python: 
+#### Para a crianção do banco de dados usando o shell do  python: 
 ```
 $ python
 >>> from app import app, db
